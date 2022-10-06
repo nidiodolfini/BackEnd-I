@@ -8,9 +8,9 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.dh</groupId>
-	<artifactId>clinica</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<groupId>com.dh</groupId>
+	<artifactId>clinicas</artifactId>
+	<version>0.0.2-Anderson</version>
 	<name>clinica</name>
 	<description>Projeto guiado da disciplina de backend</description>
 	<properties>
